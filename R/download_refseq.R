@@ -114,3 +114,5 @@ download_refseq <- function(kingdom, reference = TRUE, representative = FALSE,
   }
   message("DONE! Downloaded ", i, " genomes to ", combined_fasta)
 }
+
+checking
